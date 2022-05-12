@@ -1,0 +1,5 @@
+project: jacob-clemente/4NXCI
+target: 4nxci
+
+cmds:
+  - cmd: /4nxci @@
