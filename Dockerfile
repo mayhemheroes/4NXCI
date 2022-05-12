@@ -10,6 +10,7 @@ ADD . /4NXCI
 WORKDIR /4NXCI
 
 ## TODO: ADD YOUR BUILD INSTRUCTIONS HERE.
+RUN cp config.mk.template config.mk
 RUN make
 
 #Package Stage
